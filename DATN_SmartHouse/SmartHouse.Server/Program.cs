@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using SmartHouse.Entity;
+using SmartHouse.Server.Entity;
 using SmartHouse.Server;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,7 +12,6 @@ builder.Services.AddDbContext<DBContext>(options => options.UseSqlServer("Data S
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddAutoMapper(typeof(MappingProfile));
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

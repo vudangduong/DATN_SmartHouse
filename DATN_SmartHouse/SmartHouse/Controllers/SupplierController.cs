@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using SmartHouse.Entity;
+using SmartHouse.Server.Entity;
 
 namespace SmartHouse.Controllers
 {

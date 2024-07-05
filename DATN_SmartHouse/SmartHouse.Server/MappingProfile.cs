@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using SmartHouse.Entity;
+using SmartHouse.Server.Entity;
 using SmartHouse.Server.Model_DTO;
 using SmartHouse.Server.Model_DTO.Supplier;
 namespace SmartHouse.Server

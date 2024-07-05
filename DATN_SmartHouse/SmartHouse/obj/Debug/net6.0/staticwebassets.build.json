@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "6LgMvNjwqre/EI4p5dyYs5y0YPT5eT5L/mLeyx6PUQc=",
+  "Hash": "IT0J6QphL45vVrAWd0TP1yhpYvfu2xRK2IdEDLE69zU=",
   "Source": "SmartHouse",
   "BasePath": "_content/SmartHouse",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\SmartHouse.Server.csproj",
+      "Version": 2,
+      "Source": "SmartHouse.Server",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "SmartHouse\\wwwroot",

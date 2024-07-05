@@ -1,16 +1,167 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21571E0C-76DE-4153-B105-28D0009BADE6}|SmartHouse\\SmartHouse.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21571E0C-76DE-4153-B105-28D0009BADE6}|SmartHouse\\SmartHouse.csproj|solutionrelative:smarthouse\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\user_dto\\edituserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\user_dto\\edituserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21571E0C-76DE-4153-B105-28D0009BADE6}|SmartHouse\\SmartHouse.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21571E0C-76DE-4153-B105-28D0009BADE6}|SmartHouse\\SmartHouse.csproj|solutionrelative:smarthouse\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\controllers\\supplier\\getlistsuppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\controllers\\supplier\\getlistsuppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21571E0C-76DE-4153-B105-28D0009BADE6}|SmartHouse\\SmartHouse.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21571E0C-76DE-4153-B105-28D0009BADE6}|SmartHouse\\SmartHouse.csproj|solutionrelative:smarthouse\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21571E0C-76DE-4153-B105-28D0009BADE6}|SmartHouse\\SmartHouse.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21571E0C-76DE-4153-B105-28D0009BADE6}|SmartHouse\\SmartHouse.csproj|solutionrelative:smarthouse\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\user_dto\\edituserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\user_dto\\edituserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\controllers\\supplier\\createsuppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\controllers\\supplier\\createsuppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\controllers\\supplier\\editsuppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\controllers\\supplier\\editsuppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\controllers\\supplier\\detailsuppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\controllers\\supplier\\detailsuppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\entity\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\entity\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\user_dto\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\user_dto\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\userfunction_dto\\adduserfuntionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\userfunction_dto\\adduserfuntionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\user_dto\\getlistuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\user_dto\\getlistuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\user_dto\\getlistuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\user_dto\\getlistuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\user_dto\\detailuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\user_dto\\detailuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\user_dto\\detailuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\user_dto\\detailuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\supplier\\createsupplierrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\supplier\\createsupplierrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\filebase\\acv_exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\filebase\\acv_exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21571E0C-76DE-4153-B105-28D0009BADE6}|SmartHouse\\SmartHouse.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21571E0C-76DE-4153-B105-28D0009BADE6}|SmartHouse\\SmartHouse.csproj|solutionrelative:smarthouse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\usergroup_dto\\detailusergrouprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\usergroup_dto\\detailusergrouprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\usergroup_dto\\detailusergroupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\usergroup_dto\\detailusergroupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\usergroup_dto\\editusergrouprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\usergroup_dto\\editusergrouprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\usergroup_dto\\getlistusergrouprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\usergroup_dto\\getlistusergrouprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\usergroup_dto\\getlistusergroupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\usergroup_dto\\getlistusergroupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\usergroup_dto\\editusergroupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\usergroup_dto\\editusergroupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\userfunction_dto\\adduserfuntionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\userfunction_dto\\adduserfuntionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\usergroup_dto\\deleteusergroupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\usergroup_dto\\deleteusergroupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\usergroup_dto\\deleteusergrouprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\usergroup_dto\\deleteusergrouprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\usergroup_dto\\createusergroupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\usergroup_dto\\createusergroupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|h:\\datn\\datn_smarthouse\\datn_smarthouse\\smarthouse.server\\model_dto\\usergroup_dto\\createusergrouprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67E332-66E5-405E-B3A5-1304C1E3E261}|SmartHouse.Server\\SmartHouse.Server.csproj|solutionrelative:smarthouse.server\\model_dto\\usergroup_dto\\createusergrouprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetListSupplierController.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Controllers\\Supplier\\GetListSupplierController.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Controllers\\Supplier\\GetListSupplierController.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Controllers\\Supplier\\GetListSupplierController.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Controllers\\Supplier\\GetListSupplierController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:44:09.703Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -42,6 +193,435 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Controllers\\User\\UserController.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Controllers\\User\\UserController.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Controllers\\User\\UserController.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Controllers\\User\\UserController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAADwv1QAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:52:39.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SmartHouse\\Controllers\\UserController.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SmartHouse\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEUAAAAAm5mZmZkhwEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:39:20.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Program.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Program.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Program.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:06:29.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditUserRequest.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\User_DTO\\EditUserRequest.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\User_DTO\\EditUserRequest.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\User_DTO\\EditUserRequest.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\User_DTO\\EditUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:32:58.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SmartHouse\\Views\\_ViewImports.cshtml",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SmartHouse\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T18:38:35.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SmartHouse\\Views\\User\\Edit.cshtml",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "SmartHouse\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwCIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T15:18:25.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse\\Views\\User\\Add.cshtml",
+              "RelativeDocumentMoniker": "SmartHouse\\Views\\User\\Add.cshtml",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse\\Views\\User\\Add.cshtml",
+              "RelativeToolTip": "SmartHouse\\Views\\User\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T15:12:00.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditUserResponse.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\User_DTO\\EditUserResponse.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\User_DTO\\EditUserResponse.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\User_DTO\\EditUserResponse.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\User_DTO\\EditUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:56:56.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\MappingProfile.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\MappingProfile.cs",
+              "RelativeToolTip": "SmartHouse.Server\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:54:48.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateSupplierController.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Controllers\\Supplier\\CreateSupplierController.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Controllers\\Supplier\\CreateSupplierController.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Controllers\\Supplier\\CreateSupplierController.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Controllers\\Supplier\\CreateSupplierController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:41:55.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditSupplierController.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Controllers\\Supplier\\EditSupplierController.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Controllers\\Supplier\\EditSupplierController.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Controllers\\Supplier\\EditSupplierController.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Controllers\\Supplier\\EditSupplierController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:35:54.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DetailSupplierController.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Controllers\\Supplier\\DetailSupplierController.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Controllers\\Supplier\\DetailSupplierController.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Controllers\\Supplier\\DetailSupplierController.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Controllers\\Supplier\\DetailSupplierController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:53:58.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Entity\\DBContext.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Entity\\DBContext.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Entity\\DBContext.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Entity\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:52:01.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetListUserResponse.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\User_DTO\\GetListUserResponse.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\User_DTO\\GetListUserResponse.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\User_DTO\\GetListUserResponse.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\User_DTO\\GetListUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:57:24.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateUserResponse.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\User_DTO\\CreateUserResponse.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\User_DTO\\CreateUserResponse.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\User_DTO\\CreateUserResponse.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\User_DTO\\CreateUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:56:14.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetListUserRequest.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\User_DTO\\GetListUserRequest.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\User_DTO\\GetListUserRequest.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\User_DTO\\GetListUserRequest.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\User_DTO\\GetListUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:57:10.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddUserFuntionRequest.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserFunction_DTO\\AddUserFuntionRequest.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\UserFunction_DTO\\AddUserFuntionRequest.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserFunction_DTO\\AddUserFuntionRequest.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\UserFunction_DTO\\AddUserFuntionRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:51:38.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DetailUserResponse.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\User_DTO\\DetailUserResponse.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\User_DTO\\DetailUserResponse.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\User_DTO\\DetailUserResponse.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\User_DTO\\DetailUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:56:35.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetailUserRequest.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\User_DTO\\DetailUserRequest.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\User_DTO\\DetailUserRequest.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\User_DTO\\DetailUserRequest.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\User_DTO\\DetailUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:56:25.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateSupplierRequest.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\Supplier\\CreateSupplierRequest.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\Supplier\\CreateSupplierRequest.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\Supplier\\CreateSupplierRequest.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\Supplier\\CreateSupplierRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:28:35.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SmartHouse\\Controllers\\HomeController.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SmartHouse\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:38:12.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ACV_Exception.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\FileBase\\ACV_Exception.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\FileBase\\ACV_Exception.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\FileBase\\ACV_Exception.cs",
+              "RelativeToolTip": "SmartHouse.Server\\FileBase\\ACV_Exception.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:35:17.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddUserFuntionResPonse.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserFunction_DTO\\AddUserFuntionResPonse.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\UserFunction_DTO\\AddUserFuntionResPonse.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserFunction_DTO\\AddUserFuntionResPonse.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\UserFunction_DTO\\AddUserFuntionResPonse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:51:17.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateUserGroupRequest.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\CreateUserGroupRequest.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\CreateUserGroupRequest.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\CreateUserGroupRequest.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\CreateUserGroupRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:52:35.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateUserGroupResponse.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\CreateUserGroupResponse.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\CreateUserGroupResponse.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\CreateUserGroupResponse.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\CreateUserGroupResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:52:59.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DeleteUserGroupRequest.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DeleteUserGroupRequest.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DeleteUserGroupRequest.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DeleteUserGroupRequest.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DeleteUserGroupRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:53:47.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DeleteUserGroupResponse.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DeleteUserGroupResponse.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DeleteUserGroupResponse.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DeleteUserGroupResponse.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DeleteUserGroupResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:54:08.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DetailUserGroupRequest.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DetailUserGroupRequest.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DetailUserGroupRequest.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DetailUserGroupRequest.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DetailUserGroupRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:54:28.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DetailUserGroupResponse.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DetailUserGroupResponse.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DetailUserGroupResponse.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DetailUserGroupResponse.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\DetailUserGroupResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:54:40.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditUserGroupRequest.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\EditUserGroupRequest.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\EditUserGroupRequest.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\EditUserGroupRequest.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\EditUserGroupRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:54:54.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EditUserGroupResponse.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\EditUserGroupResponse.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\EditUserGroupResponse.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\EditUserGroupResponse.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\EditUserGroupResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:55:05.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetListUserGroupRequest.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\GetListUserGroupRequest.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\GetListUserGroupRequest.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\GetListUserGroupRequest.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\GetListUserGroupRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:55:21.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetListUserGroupResponse.cs",
+              "DocumentMoniker": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\GetListUserGroupResponse.cs",
+              "RelativeDocumentMoniker": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\GetListUserGroupResponse.cs",
+              "ToolTip": "H:\\DATN\\DATN_SmartHouse\\DATN_SmartHouse\\SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\GetListUserGroupResponse.cs",
+              "RelativeToolTip": "SmartHouse.Server\\Model_DTO\\UserGroup_DTO\\GetListUserGroupResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:55:32.162Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -248,3 +248,17 @@ H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\runtimes\uni
 H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\obj\Debug\net6.0\SmartHouse.MvcApplicationPartsAssemblyInfo.cs
+H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\SmartHouse.Server.deps.json
+H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\SmartHouse.Server.runtimeconfig.json
+H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\SmartHouse.Server.staticwebassets.runtime.json
+H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\SmartHouse.Server.exe
+H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\jose-jwt.dll
+H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\RestSharp.dll
+H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\SmartHouse.Server.dll
+H:\DATN\DATN_SmartHouse\DATN_SmartHouse\SmartHouse\bin\Debug\net6.0\SmartHouse.Server.pdb

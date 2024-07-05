@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using SmartHouse.Entity;
+using SmartHouse.Server.Entity;
 using SmartHouse.Server.FileBase;
 using SmartHouse.Server.Model_DTO.Supplier;
 
@@ -10,7 +10,7 @@ namespace SmartHouse.Server.Controllers.Supplier
     public class DetailSupplierController : ControllerBase//, IBaseController<DetailSupplierRequest, DetailSupplierResponse>
     {
         
-        private readonly DBContext _context;
+        private  DBContext _context;
         private DetailSupplierRequest _request;
         private BaseResponse<DetailSupplierResponse> _res;
         private DetailSupplierResponse _response;
@@ -28,7 +28,7 @@ namespace SmartHouse.Server.Controllers.Supplier
             _response = new DetailSupplierResponse();
         }
 
-        public void AccessDatabase()
+        private void AccessDatabase()
         {
             try
             {
@@ -48,16 +48,16 @@ namespace SmartHouse.Server.Controllers.Supplier
             }
             _res.Data = _response;
         }
-        public void CheckAuthorization()
-        {
-            throw new NotImplementedException();
-        }
-        public void GenerateObjects()
+        //public void CheckAuthorization()
+        //{
+        //    throw new NotImplementedException();
+        //}
+        private void GenerateObjects()
         {
             throw new NotImplementedException();
         }
 
-        public void PreValidation()
+        private void PreValidation()
         {
             throw new NotImplementedException();
         }

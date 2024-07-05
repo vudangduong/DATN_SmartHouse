@@ -1,10 +1,11 @@
 using Microsoft.EntityFrameworkCore;
-using SmartHouse.Entity;
+using SmartHouse.Server.Entity;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddHttpClient();
 builder.Services.AddDbContext<DBContext>(options => options.UseSqlServer("Data Source=DESKTOP-KH6N123\\SQLEXPRESS;Initial Catalog=DB;Integrated Security=True; Encrypt=False;"));
 var app = builder.Build();
 

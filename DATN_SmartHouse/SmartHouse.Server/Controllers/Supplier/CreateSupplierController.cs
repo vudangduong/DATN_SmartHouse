@@ -1,9 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using SmartHouse.Entity;
 using SmartHouse.Server.FileBase;
 using SmartHouse.Server.Model_DTO.Supplier;
-
+using SmartHouse.Server.Entity;
 namespace SmartHouse.Server.Controllers.Supplier
 {
     [Route("api/CreateSupplier")]
@@ -11,7 +10,7 @@ namespace SmartHouse.Server.Controllers.Supplier
     public class CreateSupplierController : ControllerBase//, IBaseController<CreateSupplierRequest, CreateSupplierResponse>
     {
         
-        private readonly DBContext _context;
+        private  DBContext _context;
         private CreateSupplierRequest _request;
         private BaseResponse<CreateSupplierResponse> _res;
         private CreateSupplierResponse _response;
@@ -27,9 +26,9 @@ namespace SmartHouse.Server.Controllers.Supplier
             };
             _response = new CreateSupplierResponse();
         }
-        public void AccessDatabase()
+        private void AccessDatabase()
         {
-            _context.Add(_Supplier);
+            _context.TbSuppliers.Add(_Supplier);
             _context.SaveChanges();
             _response.Message = "Thêm mới thành công !!!";
             _res.Data = _response;
@@ -39,7 +38,7 @@ namespace SmartHouse.Server.Controllers.Supplier
         //    _request.Authorization(_context, _apiCode);
         //}
 
-        public void GenerateObjects()
+        private void GenerateObjects()
         {
             _Supplier = new TbSupplier()
             {
@@ -53,7 +52,7 @@ namespace SmartHouse.Server.Controllers.Supplier
             };
         }
 
-        public void PreValidation()
+        private void PreValidation()
         {
             throw new NotImplementedException();
         }

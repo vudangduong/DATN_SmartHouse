@@ -1,11 +1,11 @@
 ﻿namespace SmartHouse.Server.FileBase
 {
-    public class IBaseController<Req, Res>
+    public interface IBaseController<Req, Res>
     {
-        //BaseResponse<Res> Process(Req request);
-        //void CheckAuthorization();
-        //void PreValidation();
-        //void GenerateObjects();
-        //void AccessDatabase();
+        BaseResponse<Res> Process(Req request);
+        void CheckAuthorization();
+        void PreValidation();
+        void GenerateObjects();
+        void AccessDatabase();
     }
 }

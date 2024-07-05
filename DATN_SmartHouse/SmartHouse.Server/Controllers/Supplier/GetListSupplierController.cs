@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
-using SmartHouse.Entity;
+using SmartHouse.Server.Entity;
 using SmartHouse.Server.FileBase;
 using SmartHouse.Server.Model_DTO.Supplier;
 using SmartHouse.Server.Utility;
@@ -13,7 +13,7 @@ namespace SmartHouse.Server.Controllers.Supplier
     public class GetListSupplierController : ControllerBase //, IBaseController<GetListSupplierRequest, GetListSupplierResponse>
     {
       
-        private readonly DBContext _context;
+        private  DBContext _context;
         private readonly IMapper _mapper;
         private GetListSupplierRequest _request;
         private BaseResponse<GetListSupplierResponse> _res;
@@ -30,13 +30,13 @@ namespace SmartHouse.Server.Controllers.Supplier
             };
             _response = new GetListSupplierResponse();
         }
-        public void AccessDatabase()
+        private void AccessDatabase()
         {
             List<SupplierDTO> LstSupplier = new List<SupplierDTO>();
             var model = _context.TbSuppliers.Where(c => (!string.IsNullOrEmpty(_request.Name) ? c.Name.Contains(_request.Name) : true)
                         && (!string.IsNullOrEmpty(_request.PhoneNumber) ? c.PhoneNumber == _request.PhoneNumber : true)
-                        && (!string.IsNullOrEmpty(_request.Adress) ? c.Adress.ToString() == _request.Adress : true)
-                        && (!string.IsNullOrEmpty(_request.ProvideProducst) ? c.ProvideProducst.ToString() == _request.ProvideProducst : true)
+                        && (!string.IsNullOrEmpty(_request.Adress) ? c.Adress == _request.Adress : true)
+                        && (!string.IsNullOrEmpty(_request.ProvideProducst) ? c.ProvideProducst == _request.ProvideProducst : true)
                         ).OrderByDescending(d => d.CreateDate);
             _response.TotalCount = model.Count();
             var query = _mapper.Map<List<SupplierDTO>>(model);
@@ -57,12 +57,12 @@ namespace SmartHouse.Server.Controllers.Supplier
         //    _request.Authorization(_context, _apiCode);
         //}
 
-        public void GenerateObjects()
+        private void GenerateObjects()
         {
             throw new NotImplementedException();
         }
 
-        public void PreValidation()
+        private void PreValidation()
         {
             throw new NotImplementedException();
         }

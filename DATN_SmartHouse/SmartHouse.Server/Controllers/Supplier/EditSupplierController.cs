@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using SmartHouse.Entity;
+using SmartHouse.Server.Entity;
 using SmartHouse.Server.FileBase;
 using SmartHouse.Server.Model_DTO.Supplier;
 
@@ -10,7 +10,7 @@ namespace SmartHouse.Server.Controllers.Supplier
     [ApiController]
     public class EditSupplierController : ControllerBase//, IBaseController<EditSupplierRequest, EditSupplierResponse>
     {
-        private readonly DBContext context;
+        //private readonly DBContext context;
 
         
         private readonly DBContext _context;
@@ -30,7 +30,7 @@ namespace SmartHouse.Server.Controllers.Supplier
             };
             _response = new EditSupplierResponse();
         }
-        public void AccessDatabase()
+        private void AccessDatabase()
         {
             _context.SaveChanges();
             _response.ID = _Supplier.Id;
@@ -42,7 +42,7 @@ namespace SmartHouse.Server.Controllers.Supplier
         //    _request.Authorization(_context, _apiCode);
         //}
 
-        public void GenerateObjects()
+        private void GenerateObjects()
         {
             try
             {
@@ -64,7 +64,7 @@ namespace SmartHouse.Server.Controllers.Supplier
             }
         }
 
-        public void PreValidation()
+        private void PreValidation()
         {
             throw new NotImplementedException();
         }
